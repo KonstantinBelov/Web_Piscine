@@ -1,0 +1,17 @@
+body {background: https://assets.htvapps.com/assets/images/weather/nt_clear_sm.92a5eb9.jpg;}
+.element {color: black; position: relative; margin: 2px;}
+.nonmetal {background-color: lightgreen;}
+.noblegas {background-color: pink;}
+.alcalimetal {background-color: crimson;}
+.alkalineEarthMetal {background-color: orange;}
+.metalloid {background-color: green;}
+.halogen {background-color: yellow;}
+.transitionMetal {background-color: skyblue;}
+.postTransitionMetal {background-color: steelblue;}
+.lanthanides {background-color: cyan;}
+.actinides {background-color: darkcyan;}
+.atomicNumber {font-size: 1vw; float: left; margin: 0; bottom: 0;}
+.symbol {font-size: 3vw; font-weight: bold; float: center; align-self: center; margin-right: 0px;}
+.group {font-size: 2vw; font-weight: bold; float: center;}
+.atomicWeight {font-size: 1vw; float: right;}
+        
